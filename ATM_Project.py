@@ -96,7 +96,6 @@ while True:
     print("******************************")
   else:
     print("******************************")
-    print("Thank You")
-    print("visit again")
+    print("Thank You visit again")
     print("******************************")
     break
